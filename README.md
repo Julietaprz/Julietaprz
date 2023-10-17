@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Julietaprz
-- 👀 I’m interested in becoming a full stack dev
-- 🌱 I’m currently learning HTML CSS and JAVA SCRIPT
-- 💞️ I’m looking to collaborate on anything that helps me learn
+- 👀 I’m interested in becoming a backend developer
+- 🌱 I’m currently improoving my skills in Java, SQL, Python, Java Script, HTML and CSS
+- 💞️ I’m looking to collaborate on anything that helps me learn more
 - 📫 How to reach me: julietaprz@gmail.com
 
 <!---
